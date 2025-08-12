@@ -6,5 +6,4 @@ int main() {
 	int b;
 	b = a + 5;
 	std::cout << "B = " << b << std::endl;
-	std::cout << "Close Programm" << std::endl;
 }
